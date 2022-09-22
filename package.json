@@ -1,0 +1,50 @@
+{
+  "name": "BotsAintSimp",
+  "version": "1.0.0",
+  "description": "BotsAintSimp is a facebook chat bot made using nodejs, axios and the unofficial facebook chat api.",
+  "main": "index.js",
+  "engines": {
+    "node": "17.4.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js",
+    "dev": "nodemon --ignore \"./*.json\" --ignore \"./pinned_attachments/*.*\" --ignore \"./temps/*.*\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SnoopyCodeX/snoopbot-prod.git"
+  },
+  "keywords": [
+    "bot",
+    "chat",
+    "bot",
+    "messenger",
+    "facebook",
+    "chat",
+    "api"
+  ],
+  "author": "Bot by: John Carl Faustino\n(©: John Roy L. Calimlim)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SnoopyCodeX/snoopbot-prod/issues"
+  },
+  "homepage": "https://github.com/SnoopyCodeX/snoopbot-prod#readme",
+  "dependencies": {
+    "axios": "^0.22.0",
+    "cheerio": "^1.0.0-rc.10",
+    "cloudscraper": "^4.6.0",
+    "dotenv": "^16.0.0",
+    "fca-unofficial": "^1.3.10",
+    "form-data": "^4.0.0",
+    "google-tts-api": "^2.0.2",
+    "googlethis": "^1.2.7",
+    "got": "^11.8.2",
+    "memory-streams": "^0.1.3",
+    "mime": "^3.0.0",
+    "nodemon": "^2.0.20",
+    "request": "^2.88.2",
+    "streamifier": "^0.1.1",
+    "youtube-music-api": "^1.0.6"
+  }
+}

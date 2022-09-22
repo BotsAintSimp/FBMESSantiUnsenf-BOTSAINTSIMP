@@ -1,0 +1,59 @@
+{
+    "defaultSettings": {
+        "prefix": "/",
+        "antiUnsendEnabled": true,
+        "autoGreetEnabled": true
+    },
+    "threads": {
+        "4258445860907644": {
+            "prefix": "/",
+            "antiUnsendEnabled": false,
+            "autoGreetEnabled": true
+        },
+        "4699051006857054": {
+            "prefix": "/",
+            "antiUnsendEnabled": false,
+            "autoGreetEnabled": true
+        },
+        "4246040152165520": {
+            "prefix": "/",
+            "antiUnsendEnabled": false,
+            "autoGreetEnabled": true
+        },
+        "5310020869038459": {
+            "prefix": "/",
+            "antiUnsendEnabled": false,
+            "autoGreetEnabled": true
+        },
+        "4531351533645663": {
+            "prefix": "/",
+            "antiUnsendEnabled": true,
+            "autoGreetEnabled": true
+        },
+        "3657311940979769": {
+            "prefix": "/",
+            "antiUnsendEnabled": true,
+            "autoGreetEnabled": true
+        },
+        "8479279658778790": {
+            "prefix": "/",
+            "antiUnsendEnabled": true,
+            "autoGreetEnabled": true
+        },
+        "1854950071211727": {
+            "prefix": "/",
+            "antiUnsendEnabled": true,
+            "autoGreetEnabled": true
+        },
+        "5122607654435651": {
+            "prefix": "/",
+            "antiUnsendEnabled": true,
+            "autoGreetEnabled": true
+        },
+        "2391614814203153": {
+            "prefix": "/",
+            "antiUnsendEnabled": true,
+            "autoGreetEnabled": true
+        }
+    }
+}
